@@ -1,13 +1,13 @@
-package com.example.java_demo_test;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaDemoTestApplication {
+public class FoodmapApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JavaDemoTestApplication.class, args);
+		SpringApplication.run(FoodmapApplication.class, args);
 	}
 
 }
